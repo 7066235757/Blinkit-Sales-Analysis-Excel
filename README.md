@@ -28,7 +28,7 @@ Key analysis includes:
 The goal of this project is to practice **data analysis and dashboard creation using Excel** and extract meaningful business insights from sales data.
 
 ## Dashboard Preview
-![Blinkit Dashboard](Blinkit_Sales_Dashboard.png)
+![Blinkit Dashboard](Blinkit_Sales__Dashboard.png)
 
 ## Author
 Prajakta Kumbhar
